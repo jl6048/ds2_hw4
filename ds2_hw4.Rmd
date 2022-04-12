@@ -2,7 +2,7 @@
 title: "ds2_hw3"
 author: "Jinghan Liu"
 date: "3/23/2022"
-output: pdf_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
